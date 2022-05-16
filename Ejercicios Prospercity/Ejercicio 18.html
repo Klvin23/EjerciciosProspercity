@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <body>
+    <script>
+        // encuentre el promedio de visitas semanales de una canal de youtube durante un periodo de un mes
+        let canal = [
+            [500, 800, 650, 780, 456, 793, 389],
+            [684, 452, 125, 698, 457, 578, 145],
+            [982, 457, 145, 247, 684, 568, 124],
+            [658, 785, 265, 478, 256, 354, 478]
+        ];
+
+        let visitas = 0;
+        sumVis = 0;
+        for (let i = 0; i < canal.length; i++){
+            for (let k = 0; k < canal[i].length; k++){
+                sumVis += canal[i][k];  
+                visitas++;  
+
+            }
+        }
+        console.log(visitas);
+        console.log(sumVis);
+        console.log(sumVis / visitas);
+    </script>
+    </body>
+</html>
