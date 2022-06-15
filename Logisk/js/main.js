@@ -1,3 +1,5 @@
+/*archivo js para proyecto*/
+
 (function ($) {
     "use strict";
     
