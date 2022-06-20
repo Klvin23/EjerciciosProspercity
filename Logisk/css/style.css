@@ -1913,7 +1913,7 @@ pre code {
   background-color: #fff;
   border-color: #ffa480;
   outline: 0;
-  box-shadow: 0 0 0 0.2rem rgba(255, 72, 0, 0.25);
+  box-shadow: 0 0 0 0.2rem rgba(76, 40, 130, 0.75);
 }
 
 .form-control::placeholder {
@@ -2351,7 +2351,7 @@ textarea.form-control {
 
 .btn:focus, .btn.focus {
   outline: 0;
-  box-shadow: 0 0 0 0.2rem rgba(255, 72, 0, 0.25);
+  box-shadow: 0 0 0 0.2rem rgba(76, 40, 130, 0.75);
 }
 
 .btn.disabled, .btn:disabled {
@@ -3512,7 +3512,7 @@ input[type="button"].btn-block {
 }
 
 .custom-control-input:focus ~ .custom-control-label::before {
-  box-shadow: 0 0 0 0.2rem rgba(255, 72, 0, 0.25);
+  box-shadow: 0 0 0 0.2rem rgba(76, 40, 130, 0.75);
 }
 
 .custom-control-input:focus:not(:checked) ~ .custom-control-label::before {
@@ -3651,7 +3651,7 @@ input[type="button"].btn-block {
 .custom-select:focus {
   border-color: #ffa480;
   outline: 0;
-  box-shadow: 0 0 0 0.2rem rgba(255, 72, 0, 0.25);
+  box-shadow: 0 0 0 0.2rem rgba(76, 40, 130, 0.75);
 }
 
 .custom-select:focus::-ms-value {
@@ -3714,7 +3714,7 @@ input[type="button"].btn-block {
 
 .custom-file-input:focus ~ .custom-file-label {
   border-color: #ffa480;
-  box-shadow: 0 0 0 0.2rem rgba(255, 72, 0, 0.25);
+  box-shadow: 0 0 0 0.2rem rgba(76, 40, 130, 0.75);
 }
 
 .custom-file-input[disabled] ~ .custom-file-label,
@@ -3774,15 +3774,15 @@ input[type="button"].btn-block {
 }
 
 .custom-range:focus::-webkit-slider-thumb {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 0.2rem rgba(255, 72, 0, 0.25);
+  box-shadow: 0 0 0 1px #fff, 0 0 0 0.2rem rgba(76, 40, 130, 0.75);
 }
 
 .custom-range:focus::-moz-range-thumb {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 0.2rem rgba(255, 72, 0, 0.25);
+  box-shadow: 0 0 0 1px #fff, 0 0 0 0.2rem rgba(76, 40, 130, 0.75);
 }
 
 .custom-range:focus::-ms-thumb {
-  box-shadow: 0 0 0 1px #fff, 0 0 0 0.2rem rgba(255, 72, 0, 0.25);
+  box-shadow: 0 0 0 1px #fff, 0 0 0 0.2rem rgba(76, 40, 130, 0.75);
 }
 
 .custom-range::-moz-focus-outer {
@@ -4602,7 +4602,7 @@ input[type="button"].btn-block {
 .page-link:focus {
   z-index: 3;
   outline: 0;
-  box-shadow: 0 0 0 0.2rem rgba(255, 72, 0, 0.25);
+  box-shadow: 0 0 0 0.2rem rgba(76, 40, 130, 0.75);
 }
 
 .page-item:first-child .page-link {
